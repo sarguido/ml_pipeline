@@ -1,6 +1,6 @@
-# ml_homework_problem
+# ml_pipeline
 
-For this exercise, I built a little command line application called `ml_pipeline`. It's based on `Click`, a very nice library for building command line applications. 
+I built a little command line application called `ml_pipeline`. It's based on `Click`, a very nice library for building command line applications. 
 
 ## Directory and file overview
 
